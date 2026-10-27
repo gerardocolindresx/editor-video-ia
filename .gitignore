@@ -1,0 +1,34 @@
+# Videos y material personal: nunca al repositorio
+Material crudo/*
+Referentes/*
+Resultados/*
+!*/.gitkeep
+
+# Trabajo interno por video y perfiles de marca personales
+edit/
+brands/*
+!brands/.gitkeep
+reels/out/
+reels/public/*
+reels/src/brands/*
+reels/src/plans/*
+!reels/**/.gitkeep
+
+# Configuración y modelos de cada ordenador (los crea instalar.sh)
+it-reelsmaker.json
+models/
+
+# Dependencias
+.venv/
+node_modules/
+
+# Notas personales del espacio de trabajo
+context/
+outputs/
+latest.md
+history.md
+
+# Sistema y secretos
+.DS_Store
+.env
+.env.*

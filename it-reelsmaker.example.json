@@ -1,0 +1,6 @@
+{
+  "project_root": "/ruta/a/editor-video-ia",
+  "remotion_dir": "/ruta/a/editor-video-ia/reels",
+  "assets_dir": "",
+  "face_model": "/ruta/a/editor-video-ia/models/face_detection_yunet_2023mar.onnx"
+}
